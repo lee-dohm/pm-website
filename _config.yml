@@ -22,8 +22,8 @@ title: Parker Mitchell
 email: parker.mitchell1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Computer Science Student and Milk Tea Enthusiast.
-baseurl: "pm-website" # the subpath of your site, e.g. /blog
-url: "https://pmmitche.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  pmmitche
 
